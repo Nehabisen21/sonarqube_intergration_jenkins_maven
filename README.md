@@ -36,7 +36,6 @@
 ### 🐳 1. Run SonarQube with Docker
 
 ```bash
-
 # Run SonarQube container
 docker run -itd --name SonarQube-Server -p 9000:9000 sonarqube:lts-community
 
